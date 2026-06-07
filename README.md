@@ -1,16 +1,16 @@
 # Hi 👋, I'm Gunjan Gaur
 
-### Software Engineer | Incoming MS Data Science @ Stony Brook University
+### Software Engineer | MS Data Science @ Stony Brook University
 
 💼 Former Software Engineer at Barclays
 
-🤖 Interested in AI, Machine Learning, Distributed Systems, and Full Stack Development
+🤖 Interested in Full Stack Development, AI, Machine Learning and Distributed Systems
 
 🌸 Currently building GUN AI using React, Node.js and Gemini
 
 🌱 Learning Agentic AI, LangGraph, RAG and System Design
 
-📚 Solving Data Structures & Algorithms problems daily
+📚 Imroving problem solving skills on Leetcode
 
 📫 Reach me at: [gaurgunjann@gmail.com](mailto:gaurgunjann@gmail.com)
 

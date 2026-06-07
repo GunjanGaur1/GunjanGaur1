@@ -1,10 +1,11 @@
 # Hi, I'm Gunjan Gaur 👋
 
-### Software Engineer | AI Engineer | Incoming MS Data Science @ Stony Brook University
+### Software Engineer | AI Engineer | MS Data Science @ Stony Brook University
 
 📍 New York, USA
 
 💼 Former Software Engineer at Barclays
+💼 Former Software Engineer at Oriflamme
 
 🤖 Interested in AI Agents, Distributed Systems, Full Stack Engineering, and Quantitative Technology
 
@@ -12,9 +13,9 @@
 
 ## About Me
 
-* Incoming M.S. in Data Science at Stony Brook University (2026–2028)
+* M.S. in Data Science at Stony Brook University (2026–2028)
 * 5 years of software engineering experience
-* Built distributed systems, trading analytics platforms, and AI-powered applications
+* Built distributed systems, trading analytics platforms, and AI powered applications
 * Experienced with React, Python, FastAPI, Docker, Kubernetes, Cloud, and LLMs
 * Passionate about building AI agents, scalable backend systems, and data-intensive applications
 

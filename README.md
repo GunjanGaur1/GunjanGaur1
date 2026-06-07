@@ -6,7 +6,7 @@
 
 🤖 Interested in Full Stack Development, AI, Machine Learning and Distributed Systems
 
-🌸 Currently building GUN AI using React, Node.js and Gemini
+🌸 Currently building GUN.AI using React, Node.js and Gemini
 
 🌱 Learning Agentic AI, LangGraph, RAG and System Design
 

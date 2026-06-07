@@ -43,4 +43,4 @@
 
 ### Featured Project
 
-🌸 GUN AI — AI chatbot built with React, Express and Gemini API
+🌸 GUN.AI - AI chatbot built with React, Express and Gemini API

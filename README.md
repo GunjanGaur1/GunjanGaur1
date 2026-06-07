@@ -1,108 +1,46 @@
-# Hi, I'm Gunjan Gaur 👋
+# Hi 👋, I'm Gunjan Gaur
 
-### Software Engineer | AI Engineer | MS Data Science @ Stony Brook University
-
-📍 New York, USA
+### Software Engineer | Incoming MS Data Science @ Stony Brook University
 
 💼 Former Software Engineer at Barclays
-💼 Former Software Engineer at Oriflamme
 
-🤖 Interested in AI Agents, Distributed Systems, Full Stack Engineering, and Quantitative Technology
+🤖 Interested in AI, Machine Learning, Distributed Systems, and Full Stack Development
 
----
+🌸 Currently building GUN AI using React, Node.js and Gemini
 
-## About Me
+🌱 Learning Agentic AI, LangGraph, RAG and System Design
 
-* M.S. in Data Science at Stony Brook University (2026–2028)
-* 5 years of software engineering experience
-* Built distributed systems, trading analytics platforms, and AI powered applications
-* Experienced with React, Python, FastAPI, Docker, Kubernetes, Cloud, and LLMs
-* Passionate about building AI agents, scalable backend systems, and data-intensive applications
+📚 Solving Data Structures & Algorithms problems daily
 
----
+📫 Reach me at: [gaurgunjann@gmail.com](mailto:gaurgunjann@gmail.com)
 
-## Tech Stack
+### Connect with me
 
-### Languages
+<a href="https://www.linkedin.com/in/gunjangaur">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
 
-Python • JavaScript • TypeScript • SQL
+### Languages and Tools
 
-### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=typescript" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=postgres" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=kubernetes" />
+<img src="https://skillicons.dev/icons?i=aws" />
+<img src="https://skillicons.dev/icons?i=gcp" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+</p>
 
-React • HTML • CSS • TypeScript
+### Featured Project
 
-### Backend
-
-FastAPI • Flask • REST APIs • Microservices
-
-### Databases
-
-PostgreSQL • MySQL • MongoDB • Redis
-
-### Cloud & DevOps
-
-AWS • Azure • GCP • Docker • Kubernetes • CI/CD • Git
-
-### AI & Data Science
-
-LLMs • LangGraph • RAG • Agentic AI • Machine Learning
-
----
-
-## Experience
-
-### Barclays (2024–2026)
-
-Software Engineer | Full Stack & Distributed Systems
-
-* Built distributed trading analytics platforms processing millions of market events
-* Developed React and Python microservices supporting real-time pricing and analytics
-* Implemented Docker, Kubernetes, CI/CD, observability, and monitoring solutions
-* Built AI-powered systems using LangGraph, RAG, and MCP architectures
-
-### Oriflamme IT Solutions (2021–2024)
-
-Software Engineer
-
-* Developed scalable Python backend services and data platforms
-* Built Spark, Hive, and Presto pipelines for large-scale business workflows
-* Designed production-grade REST APIs with monitoring and reliability controls
-
----
-
-## Featured Projects
-
-### 🌸 GUN AI
-
-AI chatbot built using React, Express, and Gemini API.
-
-### FlowOps
-
-Workflow automation engine using Python, FastAPI, React, PostgreSQL, and Celery.
-
-### RouteAgent
-
-Agentic operations platform using LangGraph, LLMs, React, and FastAPI.
-
-### TenantFlow
-
-Multi-tenant SaaS platform with JWT authentication, PostgreSQL, Docker, and React.
-
----
-
-## Education
-
-### Stony Brook University
-
-M.S. Data Science (2026–2028)
-
-### University of Mumbai
-
-B.E. Computer Engineering
-
----
-
-### Connect
-
-* LinkedIn: linkedin.com/in/gunjangaur
-* GitHub: github.com/GunjanGaur1
+🌸 GUN AI — AI chatbot built with React, Express and Gemini API

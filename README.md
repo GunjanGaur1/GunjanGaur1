@@ -1,4 +1,4 @@
-# Hi 👋, I'm Gunjan Gaur
+# Hi, I am Gunjan Gaur
 
 ### Software Engineer | MS Data Science @ Stony Brook University
 

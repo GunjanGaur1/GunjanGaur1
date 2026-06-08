@@ -10,7 +10,7 @@
 
 🌱 Learning Agentic AI, LangGraph, RAG and System Design
 
-📚 Imroving problem solving skills on Leetcode
+📚 Imroving problem solving skills on Leetcode on daily basis
 
 📫 Reach me at: [gaurgunjann@gmail.com](mailto:gaurgunjann@gmail.com)
 

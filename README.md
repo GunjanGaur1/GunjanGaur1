@@ -1,6 +1,6 @@
 # Hi, I am Gunjan Gaur
 
-### Software Engineer | MS Data Science @ Stony Brook University
+### Software Engineer | MS Computer Science @ Stony Brook University
 
 💼 Former Software Engineer at Barclays
 
@@ -12,7 +12,7 @@
 
 📚 Imroving problem solving skills on Leetcode on daily basis
 
-📫 Reach me at: [gaurgunjann@gmail.com](mailto:gaurgunjann@gmail.com)
+📫 Reach me at: [gunjancsgaur@gmail.com](mailto:gunjancsgaur@gmail.com)
 
 📫 Codes here : https://leetcode.com/u/gunjangaur0303/
 

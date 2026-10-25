@@ -10,22 +10,11 @@
 
 🌱 Learning Agentic AI, LangGraph, RAG and System Design
 
-📚 Imroving problem solving skills on Leetcode on daily basis
+📚 Imroving problem solving skills on Leetcode on daily basis 🔱
 
 📫 Reach me at: [gunjancsgaur@gmail.com](mailto:gunjancsgaur@gmail.com)
 
 📫 Codes here : https://leetcode.com/u/gunjangaur0303/
-
-🔱
-Example 1:
-
-Input: nums = [1,2,3,4]
-Output: [24,12,8,6]
-Example 2:
-
-Input: nums = [-1,1,0,-3,3]
-Output: [0,0,9,0,0]
- 
 
 ### Connect with me
 

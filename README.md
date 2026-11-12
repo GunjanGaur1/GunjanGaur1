@@ -6,7 +6,7 @@
 
 🤖 Interested in Full Stack Development, AI, Machine Learning and Distributed Systems
 
-🌸 Currently building GUN.AI using React, Node.js and Gemini
+🌸 Building BugPoker, an AI-powered bluffing card game exploring Nash equilibrium and strategic decision-making in imperfect-information games using game theory and Counterfactual Regret Minimization.
 
 🌱 Learning Agentic AI, LangGraph, RAG and System Design
 
@@ -45,6 +45,3 @@
 <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
-### Featured Project
-
-🌸 GUN.AI - AI chatbot built with React, Express and Gemini API

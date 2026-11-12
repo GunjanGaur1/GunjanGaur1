@@ -1,5 +1,6 @@
-# Hi, I am Gunjan Gaur 🔱
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=9B7EDE&center=true&vCenter=true&width=650&lines=Hi%2C+I+am+Gunjan+Gaur+%F0%9F%94%B1;Software+Engineer;AI+%26+Distributed+Systems+Enthusiast" />
+</p>
 ### Software Engineer | MS Computer Science @ Stony Brook University
 
 💼 Former Software Engineer at Barclays

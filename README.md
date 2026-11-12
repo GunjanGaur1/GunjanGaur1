@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=3000&pause=1000&color=9B7EDE&center=true&vCenter=true&width=650&lines=Hi%2C+I+am+Gunjan+Gaur+%F0%9F%94%B1;Software+Engineer;AI+%26+Distributed+Systems+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3000&pause=1200&color=9B7EDE&center=true&vCenter=true&width=950&height=100&lines=Hi%2C+I+am+Gunjan+Gaur+%F0%9F%94%B1;Software+Engineer;AI+%26+Distributed+Systems+Enthusiast" />
 </p>
 
 💼 Masters in Computer Science @ Stony Brook University

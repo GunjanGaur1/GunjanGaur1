@@ -1,4 +1,4 @@
-# Hi, I am Gunjan Gaur
+# Hi, I am Gunjan Gaur 🔱
 
 ### Software Engineer | MS Computer Science @ Stony Brook University
 
@@ -10,7 +10,7 @@
 
 🌱 Learning Agentic AI, LangGraph, RAG and System Design
 
-📚 Imroving problem solving skills on Leetcode on daily basis 🔱
+📚 Imroving problem solving skills on Leetcode on daily basis 
 
 📫 Reach me at: [gunjancsgaur@gmail.com](mailto:gunjancsgaur@gmail.com)
 
